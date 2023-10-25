@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-25T17:10:37 IST" name="Default suite" finished-at="2023-10-25T17:11:18 IST" duration-ms="40974">
+    <groups>
+    </groups>
+    <test started-at="2023-10-25T17:10:37 IST" name="Default test" finished-at="2023-10-25T17:11:18 IST" duration-ms="40974">
+      <class name="testpackege.InvalidTestCaseActitime">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackege.InvalidTestCaseActitime@192d43ce]" started-at="2023-10-25T17:10:37 IST" name="setUp" finished-at="2023-10-25T17:10:48 IST" duration-ms="11093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidScript()[pri:0, instance:testpackege.InvalidTestCaseActitime@192d43ce]" started-at="2023-10-25T17:10:48 IST" name="invalidScript" finished-at="2023-10-25T17:11:18 IST" duration-ms="29222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidScript -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testpackege.InvalidTestCaseActitime@192d43ce]" started-at="2023-10-25T17:11:18 IST" name="tearDown" finished-at="2023-10-25T17:11:18 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpackege.InvalidTestCaseActitime -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
